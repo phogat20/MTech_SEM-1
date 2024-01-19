@@ -1,0 +1,4 @@
+- MINIMUM SPANNING TREES - http://staff.ustc.edu.cn/~csli/graduate/algorithms/book6/chap24.htm
+- Quick Sort Algorithm   - http://www.btechsmartclass.com/data_structures/quick-sort.html
+- Merge Sort 		 - https://techvidvan.com/tutorials/merge-sort/ 
+
